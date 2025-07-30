@@ -52,13 +52,13 @@ npm install
 ```
 ### b) Configura la base de datos
 
-** 1. Crea una base de datos en MySQL con el nombre que prefieras.**
+1. **Crea una base de datos en MySQL con el nombre que prefieras.**
 
-** 2. Ejecuta el script SQL para crear la tabla y datos de ejemplo.**
+2. **Ejecuta el script SQL para crear la tabla y datos de ejemplo.**
 
 ---
 
-**3. Crea un archivo .env en la carpeta backend con el siguiente contenido (ajusta los valores):**
+3. **Crea un archivo .env en la carpeta backend con el siguiente contenido (ajusta los valores):**
 
 DB_HOST=localhost
 DB_USER=tu_usuario
