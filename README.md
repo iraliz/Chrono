@@ -38,7 +38,7 @@ Asegúrate de tener instalado:
 ## 1. Clona el repositorio
 
 ```bash
-git clone https://github.com/tuusuario/ChronoTask.git
+git clone https://github.com/iraliz/Chrono.git
 cd ChronoTask
 ```
 
